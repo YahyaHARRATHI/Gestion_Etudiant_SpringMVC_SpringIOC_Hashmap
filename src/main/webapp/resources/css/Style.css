@@ -1,0 +1,29 @@
+div {
+	padding: 10px ;
+	margin: 10px ;
+	border: 1px  dotted  blue;
+}
+.table1 th {
+	
+	padding: 10px;
+	margin : 10 px;
+	border : 1px solid navy;
+	background: gray;
+	
+}
+
+.table1 th:HOVER {
+	
+	background: red;
+}
+
+.table1 td {
+	margin : 10px;
+	padding: 10px;
+	border: 1px groove fuchsia;
+	
+}
+
+.table1 td:HOVER {
+	background: orange;
+}
